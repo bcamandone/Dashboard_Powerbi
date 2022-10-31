@@ -42,3 +42,5 @@ Requisitos:
 
 
 LINK AL REPORTE: https://app.powerbi.com/reportEmbed?reportId=f713e0c8-0dcd-4dba-bfe8-c299696f6753&autoAuth=true&ctid=6f2ccd6b-85a8-4ffb-92c6-68e28e829d7e
+
+LINK AL DATASET: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
