@@ -19,26 +19,26 @@ Requisitos:
 - Se solicita una tabla que contenga como mínimo  el código  y el nombre del auto, que resulta de aplicar los filtros seleccionados. 
 - El filtro por precio debe respetar el siguiente esquema: 
 
-" Less than $500.000" 
-" $500.000 - $999.999" 
-" $1.000.000 - $1.999.999" 
-" $2.000.000 - $2.999.999" 
-" $3.000.000 - $3.999.999" 
-" $4.000.000 - $4.999.999" 
- "More than $5.000.000"
+1) " Less than $500.000" 
+2) " $500.000 - $999.999" 
+3) " $1.000.000 - $1.999.999" 
+4) " $2.000.000 - $2.999.999" 
+5) " $3.000.000 - $3.999.999" 
+6) " $4.000.000 - $4.999.999" 
+7)  "More than $5.000.000"
 
 - El filtro por kilometraje deberá respetar el siguiente esquema: 
-         
-"Less than 10.000Km"  
-"10.000km - 29.999Km" 
-"30.0000Km - 49.999Km"  
-"50.000km - 69.999Km" 
-"70.000km - 89.999Km" 
-"90.000km - 109.999Km"
-"110.000km - 149.999Km" 
-"150.000km - 199.999Km" 
-"200.000km - 349.999Km" 
-"More than 350.000Km" 
+
+1) "Less than 10.000Km"  
+2) "10.000km - 29.999Km" 
+3) "30.0000Km - 49.999Km"  
+4) "50.000km - 69.999Km" 
+5) "70.000km - 89.999Km" 
+6) "90.000km - 109.999Km"
+7) "110.000km - 149.999Km" 
+8) "150.000km - 199.999Km" 
+9) "200.000km - 349.999Km" 
+10) "More than 350.000Km" 
 
 
 LINK AL REPORTE: https://app.powerbi.com/reportEmbed?reportId=f713e0c8-0dcd-4dba-bfe8-c299696f6753&autoAuth=true&ctid=6f2ccd6b-85a8-4ffb-92c6-68e28e829d7e
